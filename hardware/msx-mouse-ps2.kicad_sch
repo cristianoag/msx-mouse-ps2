@@ -7,6 +7,7 @@
   (title_block
     (title "MSX Mouse PS2 Adapter")
     (date "2024-01-14")
+    (rev "1.0")
     (company "Blue Manufatura e Comercio de Eletronicos Ltda")
     (comment 3 "Created by Cristiano Goncalves")
     (comment 4 "Based on Mouse Controller for MSX by Caro")
