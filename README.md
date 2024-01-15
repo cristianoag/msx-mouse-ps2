@@ -8,6 +8,8 @@ the classic MSX platform.
 
 Based on the work/schema developed by Caro in 2009. http://www.caro.su/msx/mous4msx.htm
 
+![MSX Mouse PS2 Adapter](/images/2024-01-14_22-41.png)
+
 ## Bill of Materials
 
 [To be included]
