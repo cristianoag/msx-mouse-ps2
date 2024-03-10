@@ -12,7 +12,23 @@ Based on the work/schema developed by Caro in 2009. http://www.caro.su/msx/mous4
 
 ## Bill of Materials
 
-[To be included]
+The following table lists the components required to build the MSX Mouse PS2 Adapter. The table also includes links to the components on AliExpress. 
+
+|Reference|Value|Description|Qty|Link|
+|---|---|---|---|---|
+|C1|0.1uF|0805 Ceramic Capacitor|1|[AliExpress](https://s.click.aliexpress.com/e/_DDIDVwZ)|
+|C2|10uF|SMD Electrolytic Capacitor|1|[AliExpress](https://s.click.aliexpress.com/e/_Dc9V0lj)|
+|R2, R3, R4, R6|0805 Resistor|220R|4|[AliExpress](https://s.click.aliexpress.com/e/_Delg4Xf)|
+|R7, R8	|0805 Resistor|4.7K|2|[AliExpress](https://s.click.aliexpress.com/e/_Delg4Xf)|
+|R1|0805 Resistor|10K|1|[AliExpress](https://s.click.aliexpress.com/e/_Delg4Xf)|
+|R5|0805 Resistor|2K|1|[AliExpress](https://s.click.aliexpress.com/e/_Delg4Xf)|
+|D1, D2	|1N4148|SMD Diode|2|[AliExpress](https://s.click.aliexpress.com/e/_Dm2Ty6N)|
+|D3|LED|0805 LED|1|[AliExpress](https://s.click.aliexpress.com/e/_DCcqt2p)|
+|U1|ATTiny2313-20S|Microcontroller|1|[AliExpress](https://s.click.aliexpress.com/e/_DB4CFg5)|
+|JP1, JP2||2.54mm Header|2|[AliExpress](https://s.click.aliexpress.com/e/_DFFPdbL)|
+|J1|9-pin D-SUB Female|Joystick Connector|1|[AliExpress](https://s.click.aliexpress.com/e/_DeV4P4z)|
+|J2|6-pin Mini-DIN Female|PS/2 Connector|1|[AliExpress](https://s.click.aliexpress.com/e/_DFl1rL3)|
+
 
 ## Firmware and Basic Operation
 
