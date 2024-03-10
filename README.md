@@ -47,12 +47,16 @@ For a connected controller, the tool provides information about the connected po
 
 ## License
 
-![open hardware](/images/1024px-Open-source-hardware-logo.svg.png)
+![Open Hardware](images/ccans.png)
 
-This work is licensed under the CERN OHL-S v2. You may redistribute and modify this project and its documentation under the terms of the CERN-OHL-S v2.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This project is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+* If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+* You may not use the material for commercial purposes.
+* You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-Based on the original work developed by Caro in 2009.  http://www.caro.su/msx/mous4msx.htm
+**ATTENTION**
 
-You should have received a copy of the CERN-OHL-S along with this project. If not, see <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2>.
+This project was made for the retro community and not for commercial purposes. So only retro hardware forums and individual people can build this project.
+
+THE SALE OF ANY PART OF THIS PROJECT WITHOUT EXPRESS AUTHORIZATION IS PROHIBITED!
